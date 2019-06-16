@@ -1,24 +1,24 @@
 # Site settings
-title: Hank Blog
+title: BangBangTang
 SEOTitle: Hank Z | Blog
 header-img: img/post-bg-rwd.jpg
 email: zhd088@163.com
-#description: "Every failure is leading towards success."
-#keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+description: "Every failure is leading towards success."
+keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
 url: "https://woshizhd.github.io"          # your host, for absolute URL
-#baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/woshizhd/woshizhd.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 #sidebar-about-description: "Goals determine what you going to be!"
-＃sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+#weibo_username:     qiubaiying
 #zhihu_username:     qiubaiying
 github_username:    woshizhd
 #facebook_username:  baiying.qiu.7
@@ -97,7 +97,7 @@ service-worker: true
 
 
 # Friends
-#friends: [
+friends: [
     {
         title: "WY",
         href: "http://zhengwuyang.com"
