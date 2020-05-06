@@ -145,3 +145,10 @@ tags:
 	- 2004年，Facebook 诞生。
 	- 2005年2月，YouTube 成立。
 	- 2005年5月，Google 率先推出其線上地圖搜尋服務—「Google Maps」。
+
+
+## one more thing 想了解更多，可以参考以下资料
+
+- 荐书：[图解网络硬件/HTTP/TCP/IP 三部曲](https://book.douban.com/subject/30564649/)
+- 网络厂商资料：[https://github.com/woshizhd/cto](https://github.com/woshizhd/cto)
+ 
